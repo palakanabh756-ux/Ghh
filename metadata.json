@@ -1,0 +1,6 @@
+{
+  "name": "345 Pay",
+  "description": "Send money internationally worldwide with zero fees and instant currency transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
